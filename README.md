@@ -45,24 +45,24 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Python                   57 hrs 21 mins     ███████░░░░░░░░░░░░░░░░░░   27.92 %
-Markdown                 40 hrs 43 mins     █████░░░░░░░░░░░░░░░░░░░░   19.82 %
-TypeScript               30 hrs 51 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.02 %
-Other                    22 hrs 21 mins     ███░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-TeX                      13 hrs 22 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   6.51 %
+Python                   55 hrs 8 mins      ███████░░░░░░░░░░░░░░░░░░   26.40 %
+Markdown                 41 hrs 54 mins     █████░░░░░░░░░░░░░░░░░░░░   20.06 %
+TypeScript               28 hrs 58 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.87 %
+Other                    23 hrs 21 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.18 %
+Rust                     14 hrs 42 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   7.04 %
 
 🔥 Editors:
-VS Code                  201 hrs 4 mins     ████████████████████████░   97.87 %
-Codex CLI                4 hrs 22 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   2.13 %
+VS Code                  201 hrs 32 mins    ████████████████████████░   96.49 %
+Codex CLI                7 hrs 19 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.51 %
 
 💻 Operating Systems:
-Mac                      99 hrs 7 mins      ████████████░░░░░░░░░░░░░   48.25 %
-Linux                    56 hrs 49 mins     ███████░░░░░░░░░░░░░░░░░░   27.66 %
-Windows                  49 hrs 30 mins     ██████░░░░░░░░░░░░░░░░░░░   24.10 %
+Mac                      90 hrs 46 mins     ███████████░░░░░░░░░░░░░░   43.46 %
+Linux                    59 hrs 22 mins     ███████░░░░░░░░░░░░░░░░░░   28.43 %
+Windows                  58 hrs 42 mins     ███████░░░░░░░░░░░░░░░░░░   28.11 %
 ```
 
-Range: 2026-05-12 -> 2026-06-10
-Last 30 days total: 205 hrs 27 mins
+Range: 2026-05-13 -> 2026-06-11
+Last 30 days total: 208 hrs 52 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
