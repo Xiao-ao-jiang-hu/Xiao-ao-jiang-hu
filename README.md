@@ -29,11 +29,11 @@
 ### 📃 Recent Posts
 
 <!-- BLOG:START -->
-- **2026-05-17** - [Stein复分析Chap8.4总结](https://blog.xiaoaojianghu.fun/posts/cce2f23d.html)
-- **2026-05-17** - [Stein复分析Chap8.2-8.3总结](https://blog.xiaoaojianghu.fun/posts/57dccb30.html)
-- **2026-05-17** - [Stein复分析Chap8.1总结](https://blog.xiaoaojianghu.fun/posts/9edadd9a.html)
-- **2026-05-17** - [Stein复分析Chap3.5-3.6总结](https://blog.xiaoaojianghu.fun/posts/4943d06a.html)
-- **2026-05-17** - [Stein复分析Chap3.3-3.4总结](https://blog.xiaoaojianghu.fun/posts/36690b00.html)
+- **2026-06-13** - [超几何方程与自守函数讲义总结](https://blog.xiaoaojianghu.fun/posts/ec4631e8.html)
+- **2026-06-13** - [椭圆曲线与Mordell定理讲义总结](https://blog.xiaoaojianghu.fun/posts/895beb02.html)
+- **2026-06-13** - [上半平面的几何讲义总结](https://blog.xiaoaojianghu.fun/posts/4ef42e3f.html)
+- **2026-06-13** - [Stein复分析Chap9.2总结](https://blog.xiaoaojianghu.fun/posts/b849d344.html)
+- **2026-06-13** - [Stein复分析Chap9.1总结](https://blog.xiaoaojianghu.fun/posts/89a1c9d9.html)
 <!-- BLOG:END -->
 
 ### 📊 WakaTime
@@ -45,24 +45,24 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Python                   55 hrs 21 mins     ███████░░░░░░░░░░░░░░░░░░   26.88 %
-Markdown                 42 hrs 44 mins     █████░░░░░░░░░░░░░░░░░░░░   20.74 %
-TypeScript               29 hrs 14 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.19 %
-Other                    22 hrs 57 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.15 %
-TeX                      12 hrs 44 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   6.18 %
+Python                   53 hrs 6 mins      ███████░░░░░░░░░░░░░░░░░░   26.17 %
+Markdown                 41 hrs 21 mins     █████░░░░░░░░░░░░░░░░░░░░   20.39 %
+TypeScript               28 hrs 12 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.90 %
+Other                    23 hrs 11 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Rust                     13 hrs 18 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   6.56 %
 
 🔥 Editors:
-VS Code                  198 hrs 40 mins    ████████████████████████░   96.44 %
-Codex CLI                7 hrs 19 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.56 %
+VS Code                  195 hrs 34 mins    ████████████████████████░   96.39 %
+Codex CLI                7 hrs 19 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.61 %
 
 💻 Operating Systems:
-Mac                      94 hrs 21 mins     ███████████░░░░░░░░░░░░░░   45.81 %
-Linux                    59 hrs 45 mins     ███████░░░░░░░░░░░░░░░░░░   29.01 %
-Windows                  51 hrs 52 mins     ██████░░░░░░░░░░░░░░░░░░░   25.18 %
+Mac                      93 hrs 32 mins     ████████████░░░░░░░░░░░░░   46.10 %
+Windows                  55 hrs 45 mins     ███████░░░░░░░░░░░░░░░░░░   27.48 %
+Linux                    53 hrs 36 mins     ███████░░░░░░░░░░░░░░░░░░   26.42 %
 ```
 
-Range: 2026-05-15 -> 2026-06-13
-Last 30 days total: 206 hrs 0 mins
+Range: 2026-05-16 -> 2026-06-14
+Last 30 days total: 202 hrs 54 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
