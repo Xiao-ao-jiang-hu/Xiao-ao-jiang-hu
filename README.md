@@ -29,11 +29,11 @@
 ### 📃 Recent Posts
 
 <!-- BLOG:START -->
+- **2026-06-15** - [复分析期末复习题目集合](https://blog.xiaoaojianghu.fun/posts/6e048df1.html)
 - **2026-06-13** - [超几何方程与自守函数讲义总结](https://blog.xiaoaojianghu.fun/posts/ec4631e8.html)
 - **2026-06-13** - [椭圆曲线与Mordell定理讲义总结](https://blog.xiaoaojianghu.fun/posts/895beb02.html)
 - **2026-06-13** - [上半平面的几何讲义总结](https://blog.xiaoaojianghu.fun/posts/4ef42e3f.html)
 - **2026-06-13** - [Stein复分析Chap9.2总结](https://blog.xiaoaojianghu.fun/posts/b849d344.html)
-- **2026-06-13** - [Stein复分析Chap9.1总结](https://blog.xiaoaojianghu.fun/posts/89a1c9d9.html)
 <!-- BLOG:END -->
 
 ### 📊 WakaTime
@@ -45,24 +45,24 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Python                   53 hrs 6 mins      ███████░░░░░░░░░░░░░░░░░░   26.17 %
-Markdown                 41 hrs 21 mins     █████░░░░░░░░░░░░░░░░░░░░   20.39 %
-TypeScript               28 hrs 12 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.90 %
-Other                    23 hrs 11 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
-Rust                     13 hrs 18 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   6.56 %
+Python                   52 hrs 40 mins     ██████░░░░░░░░░░░░░░░░░░░   25.98 %
+Markdown                 41 hrs 31 mins     █████░░░░░░░░░░░░░░░░░░░░   20.49 %
+TypeScript               26 hrs 10 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.91 %
+Other                    22 hrs 49 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.26 %
+Rust                     15 hrs 37 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   7.70 %
 
 🔥 Editors:
-VS Code                  195 hrs 34 mins    ████████████████████████░   96.39 %
+VS Code                  195 hrs 22 mins    ████████████████████████░   96.39 %
 Codex CLI                7 hrs 19 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.61 %
 
 💻 Operating Systems:
-Mac                      93 hrs 32 mins     ████████████░░░░░░░░░░░░░   46.10 %
-Windows                  55 hrs 45 mins     ███████░░░░░░░░░░░░░░░░░░   27.48 %
-Linux                    53 hrs 36 mins     ███████░░░░░░░░░░░░░░░░░░   26.42 %
+Mac                      90 hrs 11 mins     ███████████░░░░░░░░░░░░░░   44.49 %
+Windows                  58 hrs 54 mins     ███████░░░░░░░░░░░░░░░░░░   29.06 %
+Linux                    53 hrs 36 mins     ███████░░░░░░░░░░░░░░░░░░   26.45 %
 ```
 
-Range: 2026-05-16 -> 2026-06-14
-Last 30 days total: 202 hrs 54 mins
+Range: 2026-05-17 -> 2026-06-15
+Last 30 days total: 202 hrs 41 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
