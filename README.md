@@ -29,11 +29,11 @@
 ### 📃 Recent Posts
 
 <!-- BLOG:START -->
+- **2026-07-19** - [参考手册：常用范畴、记号与定理依赖](https://blog.xiaoaojianghu.fun/posts/dca30fab.html)
+- **2026-07-18** - [尾声：范畴论中的重要定理](https://blog.xiaoaojianghu.fun/posts/bab341ea.html)
 - **2026-07-17** - [Ch 6.5 所有概念都是 Kan 扩张](https://blog.xiaoaojianghu.fun/posts/17a5ab0f.html)
 - **2026-07-15** - [Ch 6.4 导出函子作为 Kan 扩张](https://blog.xiaoaojianghu.fun/posts/378271e1.html)
 - **2026-07-14** - [Ch 6.3 逐点 Kan 扩张](https://blog.xiaoaojianghu.fun/posts/d119e566.html)
-- **2026-07-13** - [Ch 6.2 Kan 扩张的逐点公式](https://blog.xiaoaojianghu.fun/posts/b07037c5.html)
-- **2026-07-12** - [Ch 6.1 Kan 扩张](https://blog.xiaoaojianghu.fun/posts/f5109481.html)
 <!-- BLOG:END -->
 
 ### 📊 WakaTime
@@ -45,25 +45,25 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Markdown                 86 hrs 4 mins      ███████████░░░░░░░░░░░░░░   43.79 %
-TypeScript               27 hrs 40 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.08 %
-Python                   26 hrs 4 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.27 %
-Rust                     13 hrs 17 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   6.76 %
-Other                    11 hrs 29 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   5.85 %
+Markdown                 85 hrs 21 mins     ███████████░░░░░░░░░░░░░░   44.64 %
+TypeScript               27 hrs 39 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.46 %
+Python                   21 hrs 49 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
+Rust                     13 hrs 4 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.84 %
+Other                    11 hrs 25 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   5.98 %
 
 🔥 Editors:
-VS Code                  131 hrs 7 mins     █████████████████░░░░░░░░   66.70 %
-Codex CLI                65 hrs 24 mins     ████████░░░░░░░░░░░░░░░░░   33.27 %
+VS Code                  125 hrs 44 mins    ████████████████░░░░░░░░░   65.77 %
+Codex CLI                65 hrs 24 mins     █████████░░░░░░░░░░░░░░░░   34.21 %
 Claude Code              2 mins 32 secs     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02 %
 
 💻 Operating Systems:
-Mac                      146 hrs 39 mins    ███████████████████░░░░░░   74.61 %
-Windows                  32 hrs 57 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.77 %
-Linux                    16 hrs 56 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.62 %
+Mac                      141 hrs 35 mins    ███████████████████░░░░░░   74.06 %
+Windows                  32 hrs 39 mins     ████░░░░░░░░░░░░░░░░░░░░░   17.08 %
+Linux                    16 hrs 56 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.86 %
 ```
 
-Range: 2026-06-20 -> 2026-07-19
-Last 30 days total: 196 hrs 34 mins
+Range: 2026-06-21 -> 2026-07-20
+Last 30 days total: 191 hrs 11 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
