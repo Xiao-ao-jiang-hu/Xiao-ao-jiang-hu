@@ -29,11 +29,11 @@
 ### 📃 Recent Posts
 
 <!-- BLOG:START -->
-- **2026-07-19** - [参考手册：常用范畴、记号与定理依赖](https://blog.xiaoaojianghu.fun/posts/dca30fab.html)
-- **2026-07-18** - [尾声：范畴论中的重要定理](https://blog.xiaoaojianghu.fun/posts/bab341ea.html)
-- **2026-07-17** - [Ch 6.5 所有概念都是 Kan 扩张](https://blog.xiaoaojianghu.fun/posts/17a5ab0f.html)
-- **2026-07-15** - [Ch 6.4 导出函子作为 Kan 扩张](https://blog.xiaoaojianghu.fun/posts/378271e1.html)
-- **2026-07-14** - [Ch 6.3 逐点 Kan 扩张](https://blog.xiaoaojianghu.fun/posts/d119e566.html)
+- **2026-07-21** - [参考手册：常用范畴、记号与定理依赖](https://blog.xiaoaojianghu.fun/posts/dca30fab.html)
+- **2026-07-20** - [尾声：范畴论中的重要定理](https://blog.xiaoaojianghu.fun/posts/bab341ea.html)
+- **2026-07-20** - [Ch 6.5 所有概念都是 Kan 扩张](https://blog.xiaoaojianghu.fun/posts/17a5ab0f.html)
+- **2026-07-20** - [Ch 6.4 导出函子作为 Kan 扩张](https://blog.xiaoaojianghu.fun/posts/378271e1.html)
+- **2026-07-19** - [Ch 6.3 逐点 Kan 扩张](https://blog.xiaoaojianghu.fun/posts/d119e566.html)
 <!-- BLOG:END -->
 
 ### 📊 WakaTime
@@ -45,25 +45,25 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Markdown                 85 hrs 21 mins     ███████████░░░░░░░░░░░░░░   44.64 %
-TypeScript               27 hrs 39 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Python                   21 hrs 49 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.41 %
-Rust                     13 hrs 4 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.84 %
-Other                    11 hrs 25 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   5.98 %
+Markdown                 84 hrs 54 mins     ████████████░░░░░░░░░░░░░   46.40 %
+TypeScript               25 hrs 31 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.94 %
+Python                   18 hrs 25 mins     ███░░░░░░░░░░░░░░░░░░░░░░   10.07 %
+Rust                     13 hrs 4 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.14 %
+Other                    10 hrs 38 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   5.81 %
 
 🔥 Editors:
-VS Code                  125 hrs 44 mins    ████████████████░░░░░░░░░   65.77 %
-Codex CLI                65 hrs 24 mins     █████████░░░░░░░░░░░░░░░░   34.21 %
+VS Code                  117 hrs 37 mins    ████████████████░░░░░░░░░   64.27 %
+Codex CLI                65 hrs 20 mins     █████████░░░░░░░░░░░░░░░░   35.70 %
 Claude Code              2 mins 32 secs     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02 %
 
 💻 Operating Systems:
-Mac                      141 hrs 35 mins    ███████████████████░░░░░░   74.06 %
-Windows                  32 hrs 39 mins     ████░░░░░░░░░░░░░░░░░░░░░   17.08 %
-Linux                    16 hrs 56 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.86 %
+Mac                      133 hrs 24 mins    ██████████████████░░░░░░░   72.90 %
+Windows                  32 hrs 39 mins     ████░░░░░░░░░░░░░░░░░░░░░   17.85 %
+Linux                    16 hrs 56 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.26 %
 ```
 
-Range: 2026-06-21 -> 2026-07-20
-Last 30 days total: 191 hrs 11 mins
+Range: 2026-06-22 -> 2026-07-21
+Last 30 days total: 183 hrs 0 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
