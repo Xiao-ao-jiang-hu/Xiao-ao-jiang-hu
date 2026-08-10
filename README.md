@@ -45,25 +45,25 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Markdown                 78 hrs 56 mins     ██████████░░░░░░░░░░░░░░░   39.08 %
-Python                   24 hrs 49 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-TypeScript               23 hrs 30 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
-Rust                     17 hrs 35 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.71 %
-Other                    13 hrs 54 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   6.89 %
+Markdown                 60 hrs 14 mins     ████████░░░░░░░░░░░░░░░░░   32.99 %
+Python                   24 hrs 22 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.35 %
+TypeScript               23 hrs 30 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.87 %
+Rust                     17 hrs 24 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.53 %
+Other                    13 hrs 50 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58 %
 
 🔥 Editors:
-VS Code                  167 hrs 22 mins    █████████████████████░░░░   82.86 %
-Codex CLI                33 hrs 3 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.36 %
-Claude Code              1 hrs 33 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77 %
+VS Code                  166 hrs 48 mins    ███████████████████████░░   91.36 %
+Codex CLI                14 hrs 13 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   7.79 %
+Claude Code              1 hrs 33 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85 %
 
 💻 Operating Systems:
-Mac                      155 hrs 1 mins     ███████████████████░░░░░░   76.75 %
-Linux                    31 hrs 6 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
-Windows                  15 hrs 51 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   7.85 %
+Mac                      134 hrs 35 mins    ██████████████████░░░░░░░   73.72 %
+Linux                    32 hrs 7 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.59 %
+Windows                  15 hrs 51 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.69 %
 ```
 
-Range: 2026-07-11 -> 2026-08-09
-Last 30 days total: 201 hrs 59 mins
+Range: 2026-07-12 -> 2026-08-10
+Last 30 days total: 182 hrs 35 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
