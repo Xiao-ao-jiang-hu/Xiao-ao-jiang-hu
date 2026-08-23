@@ -45,25 +45,25 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Markdown                 41 hrs 46 mins     ███████░░░░░░░░░░░░░░░░░░   28.56 %
-TypeScript               16 hrs 33 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.32 %
-Python                   16 hrs 12 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.08 %
-Rust                     15 hrs 23 mins     ███░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-Other                    11 hrs 25 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   7.82 %
+Markdown                 42 hrs 31 mins     ███████░░░░░░░░░░░░░░░░░░   28.53 %
+Rust                     19 hrs 23 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.01 %
+Python                   16 hrs 36 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+TypeScript               16 hrs 28 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+Other                    11 hrs 6 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.45 %
 
 🔥 Editors:
-VS Code                  134 hrs 50 mins    ███████████████████████░░   92.19 %
-Codex Vscode             9 hrs 23 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.43 %
-Claude Code              2 hrs 1 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38 %
+VS Code                  130 hrs 10 mins    ██████████████████████░░░   87.34 %
+Codex Vscode             16 hrs 50 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+Claude Code              2 hrs 1 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36 %
 
 💻 Operating Systems:
-Mac                      102 hrs 15 mins    █████████████████░░░░░░░░   69.92 %
-Linux                    37 hrs 29 mins     ██████░░░░░░░░░░░░░░░░░░░   25.63 %
-Windows                  6 hrs 30 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.45 %
+Mac                      98 hrs 8 mins      ████████████████░░░░░░░░░   65.85 %
+Linux                    36 hrs 36 mins     ██████░░░░░░░░░░░░░░░░░░░   24.56 %
+Windows                  14 hrs 17 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.59 %
 ```
 
-Range: 2026-07-24 -> 2026-08-22
-Last 30 days total: 146 hrs 15 mins
+Range: 2026-07-25 -> 2026-08-23
+Last 30 days total: 149 hrs 2 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
