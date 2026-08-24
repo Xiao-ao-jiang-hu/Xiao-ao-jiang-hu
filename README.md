@@ -45,25 +45,25 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Markdown                 42 hrs 31 mins     ███████░░░░░░░░░░░░░░░░░░   28.53 %
-Rust                     19 hrs 23 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Python                   16 hrs 36 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-TypeScript               16 hrs 28 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-Other                    11 hrs 6 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.45 %
+Markdown                 44 hrs 3 mins      ███████░░░░░░░░░░░░░░░░░░   29.85 %
+Rust                     19 hrs 23 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.14 %
+Python                   18 hrs 11 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.33 %
+TypeScript               16 hrs 28 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+Other                    10 hrs 3 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.81 %
 
 🔥 Editors:
-VS Code                  130 hrs 10 mins    ██████████████████████░░░   87.34 %
-Codex Vscode             16 hrs 50 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.30 %
-Claude Code              2 hrs 1 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36 %
+VS Code                  125 hrs 9 mins     █████████████████████░░░░   84.79 %
+Codex Vscode             20 hrs 25 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.84 %
+Claude Code              2 hrs 1 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.37 %
 
 💻 Operating Systems:
-Mac                      98 hrs 8 mins      ████████████████░░░░░░░░░   65.85 %
-Linux                    36 hrs 36 mins     ██████░░░░░░░░░░░░░░░░░░░   24.56 %
-Windows                  14 hrs 17 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.59 %
+Mac                      98 hrs 9 mins      █████████████████░░░░░░░░   66.51 %
+Linux                    32 hrs 54 mins     ██████░░░░░░░░░░░░░░░░░░░   22.30 %
+Windows                  16 hrs 31 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.19 %
 ```
 
-Range: 2026-07-25 -> 2026-08-23
-Last 30 days total: 149 hrs 2 mins
+Range: 2026-07-26 -> 2026-08-24
+Last 30 days total: 147 hrs 35 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
