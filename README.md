@@ -45,25 +45,25 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Markdown                 45 hrs 28 mins     ███████░░░░░░░░░░░░░░░░░░   29.77 %
-Python                   19 hrs 59 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Rust                     19 hrs 22 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.69 %
-TypeScript               16 hrs 36 mins     ███░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-Other                    11 hrs 3 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.23 %
+Markdown                 40 hrs 31 mins     ███████░░░░░░░░░░░░░░░░░░   29.44 %
+Python                   18 hrs 47 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.65 %
+Rust                     17 hrs 56 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.03 %
+TypeScript               16 hrs 25 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.93 %
+Other                    9 hrs 18 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.76 %
 
 🔥 Editors:
-VS Code                  122 hrs 57 mins    ████████████████████░░░░░   80.50 %
-Codex Vscode             27 hrs 45 mins     █████░░░░░░░░░░░░░░░░░░░░   18.17 %
-Claude Code              2 hrs 1 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.33 %
+VS Code                  105 hrs 38 mins    ███████████████████░░░░░░   76.75 %
+Codex Vscode             29 hrs 58 mins     █████░░░░░░░░░░░░░░░░░░░░   21.78 %
+Claude Code              2 hrs 1 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47 %
 
 💻 Operating Systems:
-Mac                      95 hrs 19 mins     ████████████████░░░░░░░░░   62.41 %
-Linux                    32 hrs 52 mins     █████░░░░░░░░░░░░░░░░░░░░   21.52 %
-Windows                  24 hrs 32 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.06 %
+Mac                      88 hrs 5 mins      ████████████████░░░░░░░░░   64.00 %
+Windows                  25 hrs 20 mins     █████░░░░░░░░░░░░░░░░░░░░   18.41 %
+Linux                    24 hrs 12 mins     ████░░░░░░░░░░░░░░░░░░░░░   17.59 %
 ```
 
-Range: 2026-07-28 -> 2026-08-26
-Last 30 days total: 152 hrs 44 mins
+Range: 2026-07-30 -> 2026-08-28
+Last 30 days total: 137 hrs 38 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
