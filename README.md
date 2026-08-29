@@ -45,25 +45,25 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Markdown                 43 hrs 1 mins      ████████░░░░░░░░░░░░░░░░░   32.53 %
-Rust                     17 hrs 47 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.45 %
-Python                   16 hrs 21 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.37 %
-TypeScript               15 hrs 20 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
-Other                    9 hrs 45 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   7.38 %
+Markdown                 49 hrs 34 mins     █████████░░░░░░░░░░░░░░░░   35.44 %
+Rust                     17 hrs 47 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Python                   17 hrs 26 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.46 %
+TypeScript               15 hrs 20 mins     ███░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+Other                    9 hrs 45 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.97 %
 
 🔥 Editors:
-VS Code                  96 hrs 32 mins     ██████████████████░░░░░░░   72.99 %
-Codex Vscode             33 hrs 41 mins     ██████░░░░░░░░░░░░░░░░░░░   25.47 %
-Claude Code              2 hrs 1 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53 %
+VS Code                  100 hrs 57 mins    ██████████████████░░░░░░░   72.16 %
+Codex Vscode             36 hrs 55 mins     ███████░░░░░░░░░░░░░░░░░░   26.39 %
+Claude Code              2 hrs 1 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45 %
 
 💻 Operating Systems:
-Mac                      84 hrs 47 mins     ████████████████░░░░░░░░░   64.11 %
-Windows                  25 hrs 19 mins     █████░░░░░░░░░░░░░░░░░░░░   19.14 %
-Linux                    22 hrs 8 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.74 %
+Mac                      84 hrs 47 mins     ███████████████░░░░░░░░░░   60.61 %
+Linux                    28 hrs 41 mins     █████░░░░░░░░░░░░░░░░░░░░   20.51 %
+Windows                  26 hrs 24 mins     █████░░░░░░░░░░░░░░░░░░░░   18.88 %
 ```
 
 Range: 2026-07-31 -> 2026-08-29
-Last 30 days total: 132 hrs 15 mins
+Last 30 days total: 139 hrs 54 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
