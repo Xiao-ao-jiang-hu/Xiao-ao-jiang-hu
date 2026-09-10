@@ -45,27 +45,27 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Markdown                 47 hrs 15 mins     █████████░░░░░░░░░░░░░░░░   37.63 %
-Python                   20 hrs 0 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.93 %
-Other                    15 hrs 57 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.71 %
-Rust                     7 hrs 44 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.16 %
-Bash                     7 hrs 1 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.60 %
+Markdown                 47 hrs 30 mins     █████████░░░░░░░░░░░░░░░░   37.71 %
+Python                   21 hrs 40 mins     ████░░░░░░░░░░░░░░░░░░░░░   17.21 %
+Other                    15 hrs 57 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Rust                     7 hrs 35 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.03 %
+Bash                     7 hrs 1 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.58 %
 
 🔥 Editors:
-Codex Vscode             66 hrs 59 mins     █████████████░░░░░░░░░░░░   53.34 %
-VS Code                  32 hrs 30 mins     ██████░░░░░░░░░░░░░░░░░░░   25.89 %
-Codex Exec               23 hrs 8 mins      █████░░░░░░░░░░░░░░░░░░░░   18.43 %
+Codex Vscode             69 hrs 22 mins     ██████████████░░░░░░░░░░░   55.07 %
+VS Code                  30 hrs 32 mins     ██████░░░░░░░░░░░░░░░░░░░   24.24 %
+Codex Exec               23 hrs 8 mins      █████░░░░░░░░░░░░░░░░░░░░   18.37 %
 Opencode Cli             1 hrs 22 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09 %
 Codex CLI                1 hrs 5 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86 %
 
 💻 Operating Systems:
-Linux                    64 hrs 34 mins     █████████████░░░░░░░░░░░░   51.43 %
-Windows                  44 hrs 16 mins     █████████░░░░░░░░░░░░░░░░   35.26 %
-Mac                      16 hrs 42 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.30 %
+Linux                    67 hrs 53 mins     █████████████░░░░░░░░░░░░   53.90 %
+Windows                  44 hrs 16 mins     █████████░░░░░░░░░░░░░░░░   35.15 %
+Mac                      13 hrs 47 mins     ███░░░░░░░░░░░░░░░░░░░░░░   10.95 %
 ```
 
-Range: 2026-08-11 -> 2026-09-09
-Last 30 days total: 125 hrs 34 mins
+Range: 2026-08-12 -> 2026-09-10
+Last 30 days total: 125 hrs 58 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
