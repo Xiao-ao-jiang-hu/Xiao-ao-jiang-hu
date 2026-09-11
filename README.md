@@ -29,11 +29,11 @@
 ### 📃 Recent Posts
 
 <!-- BLOG:START -->
+- **2026-09-11** - [LLM是如何做RL的](https://blog.xiaoaojianghu.fun/posts/e72fd138.html)
+- **2026-09-08** - [Embedding 能直接表示一词多义吗？](https://blog.xiaoaojianghu.fun/posts/a3c6ce54.html)
 - **2026-08-05** - [时变路由研究路线](https://blog.xiaoaojianghu.fun/posts/8d45d8d6.html)
 - **2026-08-05** - [时变路由论文阅读清单](https://blog.xiaoaojianghu.fun/posts/c5e89ad2.html)
 - **2026-08-04** - [DSpark：半自回归 draft 与置信度调度](https://blog.xiaoaojianghu.fun/posts/61b242ba.html)
-- **2026-08-03** - [MTP 与投机解码](https://blog.xiaoaojianghu.fun/posts/5892dae6.html)
-- **2026-08-02** - [魔方的群论模型](https://blog.xiaoaojianghu.fun/posts/8554ba71.html)
 <!-- BLOG:END -->
 
 ### 📊 WakaTime
@@ -45,27 +45,27 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Markdown                 47 hrs 30 mins     █████████░░░░░░░░░░░░░░░░   37.71 %
-Python                   21 hrs 40 mins     ████░░░░░░░░░░░░░░░░░░░░░   17.21 %
-Other                    15 hrs 57 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.67 %
-Rust                     7 hrs 35 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.03 %
-Bash                     7 hrs 1 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.58 %
+Markdown                 50 hrs 11 mins     █████████░░░░░░░░░░░░░░░░   37.75 %
+Python                   21 hrs 40 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
+Other                    20 hrs 15 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Rust                     7 hrs 35 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.71 %
+Bash                     7 hrs 13 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.44 %
 
 🔥 Editors:
-Codex Vscode             69 hrs 22 mins     ██████████████░░░░░░░░░░░   55.07 %
-VS Code                  30 hrs 32 mins     ██████░░░░░░░░░░░░░░░░░░░   24.24 %
-Codex Exec               23 hrs 8 mins      █████░░░░░░░░░░░░░░░░░░░░   18.37 %
-Opencode Cli             1 hrs 22 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09 %
-Codex CLI                1 hrs 5 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86 %
+Codex Vscode             76 hrs 33 mins     ██████████████░░░░░░░░░░░   57.59 %
+VS Code                  30 hrs 18 mins     ██████░░░░░░░░░░░░░░░░░░░   22.80 %
+Codex Exec               23 hrs 8 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.41 %
+Opencode Cli             1 hrs 22 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03 %
+Codex CLI                1 hrs 5 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82 %
 
 💻 Operating Systems:
-Linux                    67 hrs 53 mins     █████████████░░░░░░░░░░░░   53.90 %
-Windows                  44 hrs 16 mins     █████████░░░░░░░░░░░░░░░░   35.15 %
-Mac                      13 hrs 47 mins     ███░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+Linux                    67 hrs 53 mins     █████████████░░░░░░░░░░░░   51.07 %
+Windows                  44 hrs 16 mins     ████████░░░░░░░░░░░░░░░░░   33.31 %
+Mac                      20 hrs 46 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
 ```
 
-Range: 2026-08-12 -> 2026-09-10
-Last 30 days total: 125 hrs 58 mins
+Range: 2026-08-13 -> 2026-09-11
+Last 30 days total: 132 hrs 57 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
