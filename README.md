@@ -45,27 +45,27 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Markdown                 50 hrs 11 mins     █████████░░░░░░░░░░░░░░░░   37.75 %
+Markdown                 50 hrs 20 mins     █████████░░░░░░░░░░░░░░░░   37.88 %
 Python                   21 hrs 40 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.31 %
-Other                    20 hrs 15 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.24 %
+Other                    21 hrs 24 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.10 %
 Rust                     7 hrs 35 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.71 %
 Bash                     7 hrs 13 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   5.44 %
 
 🔥 Editors:
-Codex Vscode             76 hrs 33 mins     ██████████████░░░░░░░░░░░   57.59 %
-VS Code                  30 hrs 18 mins     ██████░░░░░░░░░░░░░░░░░░░   22.80 %
-Codex Exec               23 hrs 8 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.41 %
+Codex Vscode             77 hrs 52 mins     ███████████████░░░░░░░░░░   58.59 %
+VS Code                  28 hrs 58 mins     █████░░░░░░░░░░░░░░░░░░░░   21.79 %
+Codex Exec               23 hrs 8 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.42 %
 Opencode Cli             1 hrs 22 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03 %
 Codex CLI                1 hrs 5 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82 %
 
 💻 Operating Systems:
-Linux                    67 hrs 53 mins     █████████████░░░░░░░░░░░░   51.07 %
-Windows                  44 hrs 16 mins     ████████░░░░░░░░░░░░░░░░░   33.31 %
-Mac                      20 hrs 46 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.62 %
+Linux                    67 hrs 53 mins     █████████████░░░░░░░░░░░░   51.09 %
+Windows                  44 hrs 16 mins     ████████░░░░░░░░░░░░░░░░░   33.32 %
+Mac                      20 hrs 43 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.60 %
 ```
 
-Range: 2026-08-13 -> 2026-09-11
-Last 30 days total: 132 hrs 57 mins
+Range: 2026-08-14 -> 2026-09-12
+Last 30 days total: 132 hrs 54 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
