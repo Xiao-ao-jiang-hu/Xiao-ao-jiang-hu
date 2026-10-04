@@ -45,7 +45,7 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Other                    54 hrs 1 mins      ████████░░░░░░░░░░░░░░░░░   31.31 %
+Other                    54 hrs 0 mins      ████████░░░░░░░░░░░░░░░░░   31.31 %
 Markdown                 45 hrs 54 mins     ███████░░░░░░░░░░░░░░░░░░   26.61 %
 Python                   42 hrs 45 mins     ██████░░░░░░░░░░░░░░░░░░░   24.79 %
 Rust                     8 hrs 8 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.72 %
@@ -61,10 +61,10 @@ Codex CLI                5 mins 13 secs     ░░░░░░░░░░░░
 💻 Operating Systems:
 Linux                    89 hrs 4 mins      █████████████░░░░░░░░░░░░   51.64 %
 Mac                      65 hrs 35 mins     ██████████░░░░░░░░░░░░░░░   38.02 %
-Windows                  17 hrs 49 mins     ███░░░░░░░░░░░░░░░░░░░░░░   10.34 %
+Windows                  17 hrs 49 mins     ███░░░░░░░░░░░░░░░░░░░░░░   10.33 %
 ```
 
-Range: 2026-09-04 -> 2026-10-03
+Range: 2026-09-05 -> 2026-10-04
 Last 30 days total: 172 hrs 30 mins
 <!-- WAKATIME:END -->
 
