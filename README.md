@@ -29,11 +29,11 @@
 ### 📃 Recent Posts
 
 <!-- BLOG:START -->
+- **2026-10-06** - [组合数学理论部分](https://blog.xiaoaojianghu.fun/posts/391715c.html)
 - **2026-09-11** - [LLM是如何做RL的](https://blog.xiaoaojianghu.fun/posts/e72fd138.html)
 - **2026-09-08** - [Embedding 能直接表示一词多义吗？](https://blog.xiaoaojianghu.fun/posts/a3c6ce54.html)
 - **2026-08-05** - [时变路由研究路线](https://blog.xiaoaojianghu.fun/posts/8d45d8d6.html)
 - **2026-08-05** - [时变路由论文阅读清单](https://blog.xiaoaojianghu.fun/posts/c5e89ad2.html)
-- **2026-08-04** - [DSpark：半自回归 draft 与置信度调度](https://blog.xiaoaojianghu.fun/posts/61b242ba.html)
 <!-- BLOG:END -->
 
 ### 📊 WakaTime
@@ -45,26 +45,26 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Markdown                 44 hrs 9 mins      ███████░░░░░░░░░░░░░░░░░░   28.16 %
-Python                   36 hrs 38 mins     ██████░░░░░░░░░░░░░░░░░░░   23.37 %
-Other                    30 hrs 28 mins     █████░░░░░░░░░░░░░░░░░░░░   19.44 %
-Rust                     23 hrs 11 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.80 %
-JavaScript               5 hrs 39 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.61 %
+Markdown                 38 hrs 29 mins     ███████░░░░░░░░░░░░░░░░░░   26.61 %
+Python                   30 hrs 54 mins     █████░░░░░░░░░░░░░░░░░░░░   21.36 %
+Other                    29 hrs 44 mins     █████░░░░░░░░░░░░░░░░░░░░   20.56 %
+Rust                     23 hrs 50 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+TypeScript               5 hrs 39 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.91 %
 
 🔥 Editors:
-Codex Vscode             145 hrs 28 mins    ███████████████████████░░   92.79 %
-VS Code                  10 hrs 45 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   6.86 %
-Codex Exec               29 mins 13 secs    ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31 %
+Codex Vscode             133 hrs 56 mins    ███████████████████████░░   92.60 %
+VS Code                  10 hrs 10 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   7.03 %
+Codex Exec               29 mins 13 secs    ░░░░░░░░░░░░░░░░░░░░░░░░░   0.34 %
 Codex CLI                2 mins 53 secs     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03 %
 
 💻 Operating Systems:
-Linux                    72 hrs 11 mins     ████████████░░░░░░░░░░░░░   46.04 %
-Mac                      64 hrs 52 mins     ██████████░░░░░░░░░░░░░░░   41.39 %
-Windows                  19 hrs 42 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.57 %
+Linux                    62 hrs 57 mins     ███████████░░░░░░░░░░░░░░   43.53 %
+Mac                      62 hrs 46 mins     ███████████░░░░░░░░░░░░░░   43.40 %
+Windows                  18 hrs 54 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.07 %
 ```
 
-Range: 2026-09-17 -> 2026-10-16
-Last 30 days total: 156 hrs 46 mins
+Range: 2026-09-18 -> 2026-10-17
+Last 30 days total: 144 hrs 39 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
