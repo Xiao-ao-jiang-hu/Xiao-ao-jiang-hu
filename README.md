@@ -45,27 +45,27 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Rust                     45 hrs 38 mins     █████████░░░░░░░░░░░░░░░░   35.41 %
-Markdown                 27 hrs 59 mins     █████░░░░░░░░░░░░░░░░░░░░   21.72 %
-Python                   27 hrs 17 mins     █████░░░░░░░░░░░░░░░░░░░░   21.16 %
-Other                    9 hrs 6 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.06 %
-TypeScript               5 hrs 50 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.53 %
+Rust                     45 hrs 38 mins     ██████████░░░░░░░░░░░░░░░   38.14 %
+Markdown                 22 hrs 30 mins     █████░░░░░░░░░░░░░░░░░░░░   18.81 %
+Python                   18 hrs 15 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.25 %
+Other                    15 hrs 42 mins     ███░░░░░░░░░░░░░░░░░░░░░░   13.13 %
+TypeScript               5 hrs 50 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   4.88 %
 
 🔥 Editors:
-Codex Vscode             98 hrs 21 mins     ███████████████████░░░░░░   76.30 %
-Claude Code              22 hrs 45 mins     ████░░░░░░░░░░░░░░░░░░░░░   17.65 %
-VS Code                  7 hrs 43 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   6.00 %
+Codex Vscode             82 hrs 46 mins     █████████████████░░░░░░░░   69.17 %
+Claude Code              29 hrs 26 mins     ██████░░░░░░░░░░░░░░░░░░░   24.61 %
+VS Code                  7 hrs 23 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   6.17 %
 Codex CLI                2 mins 53 secs     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04 %
 Codex Exec               1 mins 2 secs      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01 %
 
 💻 Operating Systems:
-Mac                      84 hrs 55 mins     ████████████████░░░░░░░░░   65.88 %
-Linux                    41 hrs 56 mins     ████████░░░░░░░░░░░░░░░░░   32.54 %
-Windows                  2 hrs 2 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.58 %
+Mac                      92 hrs 30 mins     ███████████████████░░░░░░   77.31 %
+Linux                    25 hrs 11 mins     █████░░░░░░░░░░░░░░░░░░░░   21.06 %
+Windows                  1 hrs 57 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.64 %
 ```
 
-Range: 2026-09-23 -> 2026-10-22
-Last 30 days total: 128 hrs 54 mins
+Range: 2026-09-24 -> 2026-10-23
+Last 30 days total: 119 hrs 40 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
