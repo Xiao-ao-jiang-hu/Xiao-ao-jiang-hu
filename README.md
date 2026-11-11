@@ -29,11 +29,11 @@
 ### 📃 Recent Posts
 
 <!-- BLOG:START -->
+- **2026-10-28** - [全排列生成算法作业](https://blog.xiaoaojianghu.fun/posts/1d7f6a2.html)
 - **2026-10-17** - [组合数学第二次作业](https://blog.xiaoaojianghu.fun/posts/f1a4efc2.html)
 - **2026-10-06** - [组合数学理论部分](https://blog.xiaoaojianghu.fun/posts/cb78aa1f.html)
 - **2026-08-05** - [时变路由研究路线](https://blog.xiaoaojianghu.fun/posts/8d45d8d6.html)
 - **2026-08-05** - [时变路由论文阅读清单](https://blog.xiaoaojianghu.fun/posts/c5e89ad2.html)
-- **2026-08-04** - [DSpark：半自回归 draft 与置信度调度](https://blog.xiaoaojianghu.fun/posts/61b242ba.html)
 <!-- BLOG:END -->
 
 ### 📊 WakaTime
@@ -45,27 +45,27 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Python                   47 hrs 31 mins     ███████░░░░░░░░░░░░░░░░░░   27.34 %
-Other                    45 hrs 16 mins     ███████░░░░░░░░░░░░░░░░░░   26.04 %
-Rust                     28 hrs 12 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.22 %
-Markdown                 25 hrs 36 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Typst                    6 hrs 23 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.67 %
+Other                    49 hrs 45 mins     ███████░░░░░░░░░░░░░░░░░░   27.79 %
+Python                   47 hrs 34 mins     ███████░░░░░░░░░░░░░░░░░░   26.57 %
+Rust                     28 hrs 12 mins     ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+Markdown                 25 hrs 57 mins     ████░░░░░░░░░░░░░░░░░░░░░   14.50 %
+Typst                    6 hrs 23 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57 %
 
 🔥 Editors:
-Claude Code              108 hrs 29 mins    ████████████████░░░░░░░░░   62.39 %
-Codex Vscode             46 hrs 22 mins     ███████░░░░░░░░░░░░░░░░░░   26.67 %
-VS Code                  14 hrs 58 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   8.61 %
-Antigravity CLI          4 hrs 0 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   2.31 %
-Codex Exec               1 mins 2 secs      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01 %
+Claude Code              110 hrs 23 mins    ███████████████░░░░░░░░░░   61.66 %
+Codex Vscode             45 hrs 55 mins     ██████░░░░░░░░░░░░░░░░░░░   25.65 %
+VS Code                  16 hrs 42 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   9.33 %
+Antigravity CLI          5 hrs 57 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   3.33 %
+Antigravity              1 mins 26 secs     ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01 %
 
 💻 Operating Systems:
-Mac                      157 hrs 52 mins    ███████████████████████░░   90.79 %
-Linux                    12 hrs 33 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   7.22 %
-Windows                  3 hrs 27 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99 %
+Mac                      163 hrs 37 mins    ███████████████████████░░   91.40 %
+Linux                    11 hrs 57 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   6.68 %
+Windows                  3 hrs 27 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.93 %
 ```
 
-Range: 2026-10-12 -> 2026-11-10
-Last 30 days total: 173 hrs 52 mins
+Range: 2026-10-13 -> 2026-11-11
+Last 30 days total: 179 hrs 1 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
