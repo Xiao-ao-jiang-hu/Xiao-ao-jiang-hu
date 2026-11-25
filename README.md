@@ -45,27 +45,27 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Python                   238 hrs 13 mins    █████████████░░░░░░░░░░░░   51.71 %
-Markdown                 85 hrs 9 mins      █████░░░░░░░░░░░░░░░░░░░░   18.49 %
-Other                    74 hrs 36 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
-JSON                     9 hrs 58 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   2.17 %
-JavaScript               9 hrs 14 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   2.01 %
+Python                   247 hrs 15 mins    █████████████░░░░░░░░░░░░   51.47 %
+Markdown                 88 hrs 31 mins     █████░░░░░░░░░░░░░░░░░░░░   18.43 %
+Other                    80 hrs 53 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.84 %
+JSON                     9 hrs 58 mins      █░░░░░░░░░░░░░░░░░░░░░░░░   2.08 %
+Bash                     9 hrs 28 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97 %
 
 🔥 Editors:
-VS Code                  184 hrs 42 mins    ██████████░░░░░░░░░░░░░░░   40.10 %
-Codex Vscode             138 hrs 11 mins    ███████░░░░░░░░░░░░░░░░░░   30.00 %
-Claude Code              132 hrs 50 mins    ███████░░░░░░░░░░░░░░░░░░   28.84 %
-Antigravity CLI          3 hrs 50 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.83 %
-Antigravity Desktop      44 mins 36 secs    ░░░░░░░░░░░░░░░░░░░░░░░░░   0.16 %
+VS Code                  184 hrs 42 mins    ██████████░░░░░░░░░░░░░░░   38.45 %
+Codex Vscode             147 hrs 4 mins     ████████░░░░░░░░░░░░░░░░░   30.61 %
+Claude Code              143 hrs 43 mins    ███████░░░░░░░░░░░░░░░░░░   29.92 %
+Antigravity CLI          3 hrs 50 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.80 %
+Antigravity Desktop      44 mins 36 secs    ░░░░░░░░░░░░░░░░░░░░░░░░░   0.15 %
 
 💻 Operating Systems:
-Linux                    346 hrs 56 mins    ███████████████████░░░░░░   75.31 %
-Mac                      111 hrs 13 mins    ██████░░░░░░░░░░░░░░░░░░░   24.14 %
-Windows                  2 hrs 30 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54 %
+Linux                    369 hrs 8 mins     ███████████████████░░░░░░   76.84 %
+Mac                      108 hrs 45 mins    ██████░░░░░░░░░░░░░░░░░░░   22.64 %
+Windows                  2 hrs 30 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52 %
 ```
 
-Range: 2026-10-26 -> 2026-11-24
-Last 30 days total: 460 hrs 40 mins
+Range: 2026-10-27 -> 2026-11-25
+Last 30 days total: 480 hrs 25 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
