@@ -29,11 +29,11 @@
 ### 📃 Recent Posts
 
 <!-- BLOG:START -->
+- **2026-11-27** - [组合数学第六章作业](https://blog.xiaoaojianghu.fun/posts/cac56277.html)
+- **2026-11-27** - [Lec 3.3 群作用、典型群例、标准分解与同构定理](https://blog.xiaoaojianghu.fun/posts/b00181c6.html)
 - **2026-11-22** - [组合数学第四章作业](https://blog.xiaoaojianghu.fun/posts/53a87fc5.html)
-- **2026-11-11** - [组合数学第三章作业](https://blog.xiaoaojianghu.fun/posts/f4288ba9.html)
-- **2026-10-28** - [全排列生成算法作业](https://blog.xiaoaojianghu.fun/posts/1d7f6a2.html)
-- **2026-10-17** - [组合数学第二次作业](https://blog.xiaoaojianghu.fun/posts/f1a4efc2.html)
-- **2026-10-06** - [组合数学理论部分](https://blog.xiaoaojianghu.fun/posts/cb78aa1f.html)
+- **2026-11-20** - [Lec 3.2 群、群范畴、阶与循环群](https://blog.xiaoaojianghu.fun/posts/26ce6ed0.html)
+- **2026-11-13** - [Lec 3.1 朴素集合论与范畴语言](https://blog.xiaoaojianghu.fun/posts/2924635a.html)
 <!-- BLOG:END -->
 
 ### 📊 WakaTime
@@ -45,26 +45,27 @@
 🕑 Time Zone: Asia/Shanghai
 
 💬 Programming Languages:
-Python                   251 hrs 8 mins     ████████████░░░░░░░░░░░░░   49.00 %
-Other                    96 hrs 57 mins     █████░░░░░░░░░░░░░░░░░░░░   18.92 %
-Markdown                 93 hrs 31 mins     █████░░░░░░░░░░░░░░░░░░░░   18.25 %
-Bash                     10 hrs 2 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96 %
-JSON                     9 hrs 58 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.95 %
+Python                   251 hrs 14 mins    ████████████░░░░░░░░░░░░░   47.93 %
+Other                    107 hrs 1 mins     █████░░░░░░░░░░░░░░░░░░░░   20.41 %
+Markdown                 93 hrs 12 mins     ████░░░░░░░░░░░░░░░░░░░░░   17.78 %
+Bash                     10 hrs 48 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   2.06 %
+JavaScript               10 hrs 17 mins     ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96 %
 
 🔥 Editors:
-VS Code                  184 hrs 1 mins     █████████░░░░░░░░░░░░░░░░   35.91 %
-Codex Vscode             164 hrs 22 mins    ████████░░░░░░░░░░░░░░░░░   32.07 %
-Claude Code              154 hrs 20 mins    ████████░░░░░░░░░░░░░░░░░   30.11 %
-Antigravity Desktop      5 hrs 36 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.09 %
-Antigravity CLI          3 hrs 51 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.75 %
+VS Code                  185 hrs 31 mins    █████████░░░░░░░░░░░░░░░░   35.39 %
+Claude Code              164 hrs 15 mins    ████████░░░░░░░░░░░░░░░░░   31.33 %
+Codex Vscode             163 hrs 0 mins     ████████░░░░░░░░░░░░░░░░░   31.10 %
+Antigravity Desktop      7 hrs 7 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36 %
+Antigravity CLI          3 hrs 52 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74 %
 
 💻 Operating Systems:
-Linux                    416 hrs 31 mins    ████████████████████░░░░░   81.27 %
-Mac                      96 hrs 0 mins      █████░░░░░░░░░░░░░░░░░░░░   18.73 %
+Linux                    435 hrs 25 mins    █████████████████████░░░░   83.06 %
+Mac                      86 hrs 14 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
+Windows                  2 hrs 35 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.49 %
 ```
 
-Range: 2026-10-29 -> 2026-11-27
-Last 30 days total: 512 hrs 32 mins
+Range: 2026-10-30 -> 2026-11-28
+Last 30 days total: 524 hrs 14 mins
 <!-- WAKATIME:END -->
 
 ### 🧰 Tech Stack
